@@ -8,9 +8,9 @@
 - [x] arrays
 - [x] slices
 - [x] operators
-- [ ] inputs
+- [x] inputs
 - [x] conditions
-- [ ] switch
+- [x] switch
 - [ ] loops
 - [x] functions
 - [ ] loops
@@ -19,7 +19,7 @@
 
 
 # projects
-- [ ] rock paper scissors
+- [x] rock paper scissors
 - [ ] guess the number
 - [ ] hangman
 - [ ] madlibs
